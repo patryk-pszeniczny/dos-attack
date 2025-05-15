@@ -31,7 +31,7 @@ When you hit your own backend with this thing:
 🚑 **Confirmed fatalities** during testing:
 - Laravel APIs on shared hosting – fell over instantly
 - Spring Boot apps on cheap VPS – lights out in 3 seconds
-- Gosu servers (GuildWire) – crashed so hard we got a 2003 RuneScape error page
+- Gosu servers (GuideWire) – crashed so hard we got a 2003 RuneScape error page
 
 Great for testing scalability, timeouts, and how your ops team reacts under pressure.
 
